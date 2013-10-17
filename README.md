@@ -9,7 +9,7 @@
 Fyrst ákváðum við að hala niður VirtualBoxi . Svo varð LinuxMint fyrir valinu. Áður hafði Sigrún að keyra upp Ubuntu af USB lykli sem tókst ekki vel. 
 LinuxMint kom þjöppuð þannig fyrst þurfti að afþjappa hana.  Svo var skráin opnuð, þetta gékk svona upp og ofan en hafðist að lokum með hjálp góðra manna. Eftir smá aðstoð komu við lyklaborðinu inn á íslensku og þá gátum við hafist handa.
 
-! [Alt Text](http://imgur.com/b9ZWK3B)
+![Alt text](http://imgur.com/b9ZWK3B.jpg)
 
 
 ## 2. Uppsetning á vim && git
@@ -24,8 +24,6 @@ https://github.com/hoogie/INTOPrufa/blob/master/NIM.cpp
 
 
 ## 4. Uppsettur hugbúnaður
-
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 
 Firefox
