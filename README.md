@@ -63,6 +63,6 @@ PuTTY
 License: MIT licence 
 Open source code: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
-	## 5. Unnið með Git (2. hluti)
+## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
