@@ -9,12 +9,12 @@
 Fyrst ákváðum við að hala niður VirtualBoxi . Svo varð LinuxMint fyrir valinu. Áður hafði Sigrún að keyra upp Ubuntu af USB lykli sem tókst ekki vel. 
 LinuxMint kom þjöppuð þannig fyrst þurfti að afþjappa hana.  Svo var skráin opnuð, þetta gékk svona upp og ofan en hafðist að lokum með hjálp góðra manna. Eftir smá aðstoð komu við lyklaborðinu inn á íslensku og þá gátum við hafist handa.
 
-![Alt Text](http://imgur.com/b9ZWK3B)
+! [Alt Text](http://imgur.com/b9ZWK3B)
 
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Við fórum alveg eftir leiðbeiningum varðandi uppsetningu á Vim og Git.  Þetta gekk alveg snuðrulaust.
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -32,11 +32,11 @@ Firefox
 License:  MPL 2.0
 Open source code: https://developer.mozilla.org/en/docs/Mozilla_Source_Code_Directory_Structure
 
-thunderbird:
+thunderbird
 License: Creative Commons Attribution Share - Alike License v3.0
 Open source code:  http://mxr.mozilla.org/comm-central/search?string=thunderbird
 
-MusikCube:
+MusikCube
 License: BSD licensed
 Open source code: http://code.google.com/p/musikcube/
 
@@ -61,7 +61,9 @@ Gimp
 License: GNU General Public License
 Open source code: http://www.gimp.org/source/#source
 
-PuTTY: MIT licence http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+PuTTY
+License: MIT licence 
+Open source code: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
 	## 5. Unnið með Git (2. hluti)
 
