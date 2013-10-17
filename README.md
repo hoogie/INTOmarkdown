@@ -1,14 +1,15 @@
 #Open Source
 
-+ Hugrun
-+ Kristin
-+ Sigrun
++ Hugrun Osk Bjarnadottir
++ Kristin Bjork Einarsdottir
++ Sigrun Jonsdottir
 
 ## 1. Linux 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-![/home/adminuser/snapshot1.png](snapshot1.png)
-Format: ![Alt Text](/home/adminuser/snapshot1.png)
+Fyrst ákváðum við að hala niður VirtualBoxi . Svo varð LinuxMint fyrir valinu. Áður hafði Sigrún að keyra upp Ubuntu af USB lykli sem tókst ekki vel. 
+LinuxMint kom þjöppuð þannig fyrst þurfti að afþjappa hana.  Svo var skráin opnuð, þetta gékk svona upp og ofan en hafðist að lokum með hjálp góðra manna. Eftir smá aðstoð komu við lyklaborðinu inn á íslensku og þá gátum við hafist handa.
+
+![Alt Text](http://imgur.com/b9ZWK3B)
 
 
 ## 2. Uppsetning á vim && git
@@ -26,27 +27,41 @@ https://github.com/hoogie/INTOPrufa/blob/master/NIM.cpp
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
-Open source Kristín
-Firefox - MPL 2.0 - https://developer.mozilla.org/en/docs/Mozilla_Source_Code_Directory_Structure
 
-thunderbird - Creative Commons Attribution Share - Alike License v3.0 - http://mxr.mozilla.org/comm-central/search?string=thunderbird
+Firefox
+License:  MPL 2.0
+Open source code: https://developer.mozilla.org/en/docs/Mozilla_Source_Code_Directory_Structure
 
-MusikCube - BSD licensed - http://code.google.com/p/musikcube/
+thunderbird:
+License: Creative Commons Attribution Share - Alike License v3.0
+Open source code:  http://mxr.mozilla.org/comm-central/search?string=thunderbird
 
-open source Sigrun
+MusikCube:
+License: BSD licensed
+Open source code: http://code.google.com/p/musikcube/
+
 Moodle 
 License:  GPLv3+[2]
-web site: http://git.moodle.org/gw
+Open source code: http://git.moodle.org/gw
 
 7-Zip
 License: GNU LGPLv2.1+ with unRAR restriction[3]
-web site: http://www.7-zip.org/download.html
+Open source code: http://www.7-zip.org/download.html
 
 Andriod
-license: Apache License 2.0
+License: Apache License 2.0
 Linux kernel patches under GNU GPL v2[10]
-website: http://source.android.com/
+Open source code: http://source.android.com/
 
+VLC media player
+License: GNU General Public License 
+Open source code: http://www.videolan.org/vlc/download-sources.html
+
+Gimp
+License: GNU General Public License
+Open source code: http://www.gimp.org/source/#source
+
+PuTTY: MIT licence http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
 	## 5. Unnið með Git (2. hluti)
 
