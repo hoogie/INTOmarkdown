@@ -4,8 +4,7 @@
 + Kristin
 + Sigrun
 
-## 1. Linux uppsetning
-
+## 1. Linux 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 
@@ -17,9 +16,10 @@ Lýsið hvernig gekk að setja upp þessi tól.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Við byrjuðum á því að stofna aðgang að github.com og svo tók Hugrún að sér að forka okkur allar saman. Þegar við clonuðum repository-ið saman þá virðist sem við höfum ekki verið að afrita sama linkinn. Svo við þurftum að henda út INTOPrufa möppunni með öllu hennar innihaldi og byrja aftur á því að clona. Í þetta skipti
+pössuðum við okkur á því að vera að afrita sama linkinn þ.e. SSH en ekki https:. Því næst opnuðum við NIM.cpp hver og ein og gerðum okkar breytingar,vistuðum og "ýttum" nýja kóðanum yfir í repository-ið. Næsta sótti svo breytingarnar og breytti kóðanum aftur. Það gekk allt upp því við sáum breytingarnar hjá hvor annarri.
+https://github.com/hoogie/INTOPrufa/blob/master/NIM.cpp 
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 ## 4. Uppsettur hugbúnaður
 
