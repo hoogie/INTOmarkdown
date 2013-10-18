@@ -65,4 +65,4 @@ Open source code: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.htm
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Okkur gekk ágætlega að vinna í Markdown, en lentum í vandræðum með að fá myndina inn. Þegar við lærðum svo hvernig það væri gert var það auðvitað ekkert mál. Kóðinn til að setja myndina inn var ekki vandamálið heldur slóðin á myndina sem vafðist fyrir okkur. 
